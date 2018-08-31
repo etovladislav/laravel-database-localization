@@ -14,7 +14,7 @@
     {
       "url": "https://gitlab.com/eboo_booking/structure.git",
       "type": "git"
-    },
+    }
   ],
   "require": {
     "php": "^7.1.3",
